@@ -1,0 +1,15 @@
+[package]
+authors = ["Louis Birla <nullaeus@gmail.com>"]
+description = "Tools for the Minno language"
+edition = "2018"
+homepage = "https://min.nilae.us"
+keywords = ["minno"]
+license = "MIT"
+name = "minno"
+readme = "README.md"
+repository = "https://github.com/nilaeus/minno-rs"
+version = "0.1.0"
+
+[dependencies]
+hangeul = "0.2.0"
+regex = "1.4.1"

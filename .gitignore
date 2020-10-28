@@ -1,0 +1,8 @@
+# Manual ignores
+.ignore
+temp*
+# Rust output
+target
+tarpaulin-report.html
+# Config for development
+.cargo/config.toml
